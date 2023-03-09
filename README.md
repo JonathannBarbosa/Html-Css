@@ -2,3 +2,5 @@
  Curso de HTML e CSS - Curso em Vídeo
 
 Gerenciamento de Sites e repositórios
+
+<a hre="https://jonathannbarbosa.github.io/Html-Css/exercicios/ex001/index.html">Executar exercício 001</a>
