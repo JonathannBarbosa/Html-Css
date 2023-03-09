@@ -3,4 +3,4 @@
 
 Gerenciamento de Sites e repositórios
 
-<a hre="https://jonathannbarbosa.github.io/Html-Css/exercicios/ex001/index.html">Executar exercício 001</a>
+<a href="https://jonathannbarbosa.github.io/Html-Css/exercicios/ex001/index.html">Executar exercício 001</a>
