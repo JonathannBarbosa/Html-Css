@@ -1,0 +1,35 @@
+/*
+em HTML é id = em CSS é    #
+em HTML é class = em CSS é .
+
+
+*/
+
+body{
+  background-color: rgb(230, 241, 241)
+}
+
+h1{
+  color: rgb(52, 88, 88);
+}
+
+#principal{
+  text-align: center;
+  background-color: rgba(123, 136, 136, 0.212);
+  border-radius: 10px;
+}
+
+h2{
+  color: rgb(61, 107, 107);;
+}
+
+.basico{
+  color: rgba(110, 1, 124, 0.904)
+}
+
+.intermediario{
+  color: rgb(253, 208, 5);
+}
+.avancado{
+  color: rgb(238, 5, 5);
+}
